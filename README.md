@@ -1,4 +1,4 @@
-# 📊 DiSCALE – Google Trends Keyword Analysis
+# DiSCALE – Google Trends Keyword Analysis
 
 This project explores how people across the world search for different topics on **Google Trends**.  
 It’s not just about plotting charts – it’s about turning search data into **real insights**:  
@@ -12,29 +12,27 @@ I built this project as part of my **data analytics learning journey** to practi
 
 ---
 
-## 🚀 Features
+## Features with Visuals
 
-## 🚀 Features with Visuals
-
-### 🌍 Top 15 countries where the keyword is searched most
+### Top 15 countries where the keyword is searched most
 <img src="charts/top_countries.png" width="600">
 
-### 🗺️ Interactive world map of search interest
+### Interactive world map of search interest
 <img src="charts/world_map.png" width="600">
 
-### 🔥 Seasonality heatmap (month vs year patterns)
+### Seasonality heatmap (month vs year patterns)
 <img src="charts/seasonality_heatmap.png" width="600">
 
-### ⏳ Forecasting future search interest with Prophet
+### Forecasting future search interest with Prophet
 <img src="charts/forecast.png" width="600">
 
-### 🤝 Platform-wise analysis (Web, YouTube, News, Images)
+### Platform-wise analysis (Web, YouTube, News, Images)
 <img src="charts/platform_wise.png" width="600">
 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python** – Data analysis and visualization  
 - **Pytrends** – Google Trends API wrapper  
@@ -45,7 +43,7 @@ I built this project as part of my **data analytics learning journey** to practi
 
 ---
 
-## 📖 Example Insights
+## Example Insights
 
 - *Artificial Intelligence* shows highest search popularity in tech-forward countries..  
 - Yearly search interest shows steady growth over the last 5 years..  
@@ -62,12 +60,12 @@ The full project report is available here:
 
 ---
 
-## 🙌 Final Thoughts
+## Final Thoughts
 
 This project shows how simple search data can reveal big insights about people and trends.  
 It was a fun way to practice real-world analytics — from data collection to storytelling.  
 
-If you liked this project, feel free to ⭐ star the repo or connect with me!  
+If you liked this project, feel free to star the repo or connect with me!  
 
-✍️ *Made with curiosity and Python.*  
+✍ *Made with curiosity and Python.*  
 
