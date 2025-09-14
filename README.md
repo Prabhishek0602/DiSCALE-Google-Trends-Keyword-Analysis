@@ -57,8 +57,8 @@ I built this project as part of my **data analytics learning journey** to practi
 
 ## 📄 Report
 
-A detailed project report is included in this repository:  
-📑 [Google_Trends_Analysis.pdf](reports/Google_Trends_Analysis.pdf)
+The full project report is available here:  
+📑 [Google_Trends_Analysis.pdf](Google_Trends_Analysis.pdf)
 
 ---
 
